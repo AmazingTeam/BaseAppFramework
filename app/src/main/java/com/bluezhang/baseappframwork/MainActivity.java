@@ -13,6 +13,7 @@ import rx.android.schedulers.AndroidSchedulers;
 
 public class MainActivity extends AppCompatActivity {
 
+
     public static final String TAG = MainActivity.class.getSimpleName();
 
     @Override
